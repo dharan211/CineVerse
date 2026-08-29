@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env & secrets (real .env never committed)
+.env
+.env.*.local
+
+# Build outputs
+node_modules/
+dist/
+dist-ssr/
+
+.claude/ node_modules/ .env
